@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# API secrets
+hypnotronics_top_secret.txt
+
+# Other stuff
+ffmpeg.exe
